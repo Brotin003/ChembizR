@@ -14,7 +14,7 @@ const ProjectRoutes = () => {
       element: <HeroSectionfixed />,
     },
     {
-      path: "home",
+      path: "login",
       element: <LogIn />, 
     }
   ]);
